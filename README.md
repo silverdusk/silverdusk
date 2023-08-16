@@ -5,7 +5,7 @@ I'm Kirill, a dedicated Senior QA Automation Engineer with a passion for craftin
 
 ## About Me
 
-- 🚀 Currently, I'm a Senior QA Engineer for a global digital marketing powerhouse.
+- 🚀 Currently, I'm a Senior QA Engineer at a global digital marketing powerhouse.
 - 💡 I excel in designing scalable testing infrastructures, with recent achievements including a 50% reduction in test setup time.
 - 🤖 I'm well-versed in Java, Python, Kotlin and Groovy, and I take pride in creating comprehensive automation test suites with impressive coverage.
 - 🎯 I have a proven track record of managing end-to-end testing cycles for successful product releases.
